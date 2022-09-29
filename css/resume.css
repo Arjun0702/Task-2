@@ -85,16 +85,12 @@
 	   padding:15px;
 	   color:grey;
 }
-.banner button{
+.banner a{
 	   border:1px solid white;
 	   padding:13px 30px;
 	   background:black;
 	   color:white;
 	   text-decoration:none;
-}
-.banner button a{
-	text-decoration:none;
-	color:white;
 }
 .skill{
 	display:flex;
